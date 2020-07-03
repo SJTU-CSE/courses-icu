@@ -2,13 +2,13 @@
 
 ## 基本信息
 
-课程名称: 
+课程名称: 计算机科学中的数学基础 Mathematical Foundations of Computer Science
 
 授课教师:
 
-- 龙环
+- 龙环 https://basics.sjtu.edu.cn/~longhuan/
 - 李颉
-- Dominik Scheder
+- Dominik Scheder https://basics.sjtu.edu.cn/~dominik/
 
 
 
