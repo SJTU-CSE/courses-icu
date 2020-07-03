@@ -1,4 +1,4 @@
-# [Title: TBD] SJTU: CS Life Matters
+# [Title: TBD] SJTU: CS-Courses ICU
 
 当前工作: 补全课程清单；快速访问链接
 
